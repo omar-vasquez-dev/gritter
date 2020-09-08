@@ -6,7 +6,9 @@ import { ComponentOne } from "./components/demo/ComponentOne";
 
 const App = () => (
   <div className="App">
+    <hr></hr>
     <ComponentOne name={"Andrian"}></ComponentOne>
+    <hr></hr>
     <ComponentTwo name={"Gabriel"}></ComponentTwo>
   </div>
 );
