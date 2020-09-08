@@ -6,7 +6,8 @@ import { ComponentOne } from "./components/demo/ComponentOne";
 
 const App = () => (
   <div className="App">
-    <ComponentOne name={"Andrian"}></ComponentOne>
+    <ComponentOne name={"AndrianEL Clos"}></ComponentOne>
+    <hr></hr>
     <ComponentTwo name={"Gabriel"}></ComponentTwo>
   </div>
 );
